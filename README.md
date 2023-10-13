@@ -13,7 +13,7 @@ Weatherly is a straightforward weather web application that allows users to chec
 
 ## Demo
 
-You can check out a live demo of Weatherly [here](https://your-demo-url.com).
+You can check out a live demo of Weatherly [here](https://manoj-m-v.github.io/Weatherly/).
 
 ## How to Use
 
