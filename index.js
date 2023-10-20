@@ -32,7 +32,7 @@ async function checkWeather(city) {
                 weatherIcon.src = "images/drizzle.png"
                 break;
             case "Mist":
-                weatherIcon.src = "images/miat.png"
+                weatherIcon.src = "images/mist.png"
                 break;
             case "Rain":
                 weatherIcon.src = "images/rain.png"
